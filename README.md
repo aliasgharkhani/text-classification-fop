@@ -1,1 +1,2 @@
 # text-classification-fop
+In this project I and my teammate had developed a c code that fetches text data from a server and then classifies them based on manual rules that provide. For example number of repeat of a "ball" causes a text to be classified as "sport" class
